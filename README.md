@@ -1,6 +1,6 @@
 # AWS Solutions Associate Associate
 
-🦄Note to ACE the AWS SAA Certificate in 2 months! 🏅
+🦄 Note to ACE the AWS SAA Certificate in 2 months! 🏅
 
 # My notes
 
