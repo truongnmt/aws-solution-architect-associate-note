@@ -46,3 +46,5 @@ Do all practices test and I'm pretty sure that you can ACE the real exam for 900
 
 # Misc
 For more updated version of this note, have a look at this [Notion page](https://www.notion.so/stronglong/AWS-Solutions-Associate-Associate-4d2d0c4130494145ac5c9b32c3440ade).
+
+Reference: here is a helpful material I did follow [@minhntm's note](https://github.com/minhntm/aws-solutions-architect-associate-certificate).
