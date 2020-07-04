@@ -2,6 +2,8 @@
 
 🦄 Note to ACE the AWS SAA Certificate in 2 months! 🏅
 
+For more updated version of this note, have a look at this [Notion page](https://www.notion.so/stronglong/AWS-Solutions-Associate-Associate-4d2d0c4130494145ac5c9b32c3440ade).
+
 # My notes
 
 [IAM](AWS%20Solutions%20Associate%20Associate%204d2d0c4130494145ac5c9b32c3440ade/IAM%20926ea0ed4bc44981b01eebb4f3038f33.md)
@@ -45,6 +47,8 @@ Each test is 150 minutes, I do it and review all the questions for 1 week, 1 hou
 Do all practices test and I'm pretty sure that you can ACE the real exam for 900+ pts!
 
 # Misc
-For more updated version of this note, have a look at this [Notion page](https://www.notion.so/stronglong/AWS-Solutions-Associate-Associate-4d2d0c4130494145ac5c9b32c3440ade).
 
-Reference: here is a helpful material I did follow [@minhntm's note](https://github.com/minhntm/aws-solutions-architect-associate-certificate).
+Reference: here is a helpful material I did follow
+
+- [@minhntm's note](https://github.com/minhntm/aws-solutions-architect-associate-certificate).
+- [Kinh nghiệm thi chứng chỉ AWS Certified Solutions Architect – Associate](https://kipalog.com/posts/Kinh-nghiem-thi-chung-chi-AWS-Certified-Solutions-Architect---Associate)
