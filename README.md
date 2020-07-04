@@ -48,7 +48,7 @@ Do all practices test and I'm pretty sure that you can ACE the real exam for 900
 
 # Misc
 
-Reference: here is a helpful material I did follow
+Reference: here is some helpful materials I did follow:
 
 - [@minhntm's note](https://github.com/minhntm/aws-solutions-architect-associate-certificate).
 - [Kinh nghiệm thi chứng chỉ AWS Certified Solutions Architect – Associate](https://kipalog.com/posts/Kinh-nghiem-thi-chung-chi-AWS-Certified-Solutions-Architect---Associate)
